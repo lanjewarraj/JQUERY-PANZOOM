@@ -1,4 +1,4 @@
-# PANZOOM
+# PANZOOM    visit deployed site on netlify:--- https://jquery-pan-zoom.netlify.app/
 Panzoom is a small library (~3.7kb gzipped) to add panning and zooming functionality to an element. Rather than using absolute positioning or setting width and height, Panzoom uses CSS transforms to take advantage of hardware/GPU acceleration in the browser, which means the element can be anything: an image, a video, an iframe, a canvas, text, WHATEVER.
 
 # Visit to documentation page on github
